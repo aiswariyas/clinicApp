@@ -1,0 +1,11 @@
+E:\aishwariya_c#\ClinicApp\bin\Debug\ClinicApp.exe.config
+E:\aishwariya_c#\ClinicApp\bin\Debug\ClinicApp.exe
+E:\aishwariya_c#\ClinicApp\bin\Debug\ClinicApp.pdb
+E:\aishwariya_c#\ClinicApp\obj\Debug\ClinicApp.csproj.AssemblyReference.cache
+E:\aishwariya_c#\ClinicApp\obj\Debug\ClinicApp.csproj.SuggestedBindingRedirects.cache
+E:\aishwariya_c#\ClinicApp\obj\Debug\ClinicApp.Form1.resources
+E:\aishwariya_c#\ClinicApp\obj\Debug\ClinicApp.Properties.Resources.resources
+E:\aishwariya_c#\ClinicApp\obj\Debug\ClinicApp.csproj.GenerateResource.cache
+E:\aishwariya_c#\ClinicApp\obj\Debug\ClinicApp.csproj.CoreCompileInputs.cache
+E:\aishwariya_c#\ClinicApp\obj\Debug\ClinicApp.exe
+E:\aishwariya_c#\ClinicApp\obj\Debug\ClinicApp.pdb
